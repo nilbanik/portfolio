@@ -48,4 +48,3 @@ A responsive, modern personal portfolio website showcasing my software developme
 * **Email:** baniknilesh2@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/nilesh-banik-096183302/
 * **GitHub:** https://github.com/nilbanik
-*
