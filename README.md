@@ -28,12 +28,12 @@ A responsive, modern personal portfolio website showcasing my software developme
 
 ## 📁 File Structure
 
-├── portfolio.html      # Main HTML markup
-├── style.css           # Core styling and layout rules
-├── mediaqueries.css    # Responsive breakpoints (mobile, tablet, desktop)
-├── script.js           # Navigation drawer and menu logic
-└── assets/             # Icons, project previews, profile photos, and resume
-
+* `portfolio.html` — Main HTML markup
+* `style.css` — Core styling and layout rules
+* `mediaqueries.css` — Responsive breakpoints (mobile, tablet, desktop)
+* `script.js` — Navigation drawer and menu logic
+* `assets/` — Icons, project previews, profile photos, and resume
+  
 ---
 
 ## 🚀 How to Run Locally
