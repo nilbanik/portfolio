@@ -288,7 +288,7 @@ section {
 
 .about-pic {
   border-radius: 2rem;
-  filter: grayscale(75%);
+  filter: grayscale(50%);
 }
 
 .arrow {
