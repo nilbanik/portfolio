@@ -80,7 +80,6 @@ portfolio/
 │   ├── profile-pic.png      # Hero profile photo (optimized)
 │   ├── project-1.png        # Project 1 preview thumbnail
 │   ├── project-2.png        # Project 2 preview thumbnail
-│   ├── project-3.png        # Project 3 preview thumbnail
 │   └── resume-example.pdf   # Downloadable curriculum vitae (CV)
 ├── favicon.ico              # Browser tab icon
 ├── index.html               # Main website entry point & structure
